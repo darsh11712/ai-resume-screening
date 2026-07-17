@@ -1,0 +1,10 @@
+crewai==0.114.0
+langchain-core==0.3.55
+langchain-groq==0.3.2
+PyMuPDF==1.25.5
+python-docx==1.1.2
+python-dotenv==1.1.0
+requests==2.32.3
+streamlit==1.44.1
+
+
